@@ -4,9 +4,9 @@
 
 I'm a cybersecurity student in my penultimate year of uni with a love for exploring and adapting to the evergrowing cyber space! This page will give you a rundown of my <strong> skills </strong> and <strong> attributes </strong>, and most importantly, take you on a journey through the <strong> projects </strong> I've completed! 
 
-📍 Sydney, Australia &ensp;
-🌏 Fluent in English and Cantonese, nei hou! 👋🏻 &ensp;
-🐶 I have a dog and a cat! 🐱
+📍 Sydney, Australia 🏖️ &ensp;
+🌏 Fluent in English and Cantonese. Nei hou! 👋🏻 &ensp;
+🐶 Proud cat and dog owner! 🐱
 
 ## Technical Skills
 
