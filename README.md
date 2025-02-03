@@ -42,7 +42,9 @@ I'm a cybersecurity student in my penultimate year of uni with a love for explor
 ## Tools I've Used
 
 ## Projects
-
+| Date   | Name   | Link   |
+|--------| -------| -------|
+|03-02/2025| KeyLogger-Python | <href> https://github.com/cyberclauds/Keylogger-Python </href>|
 ## Wanna chat and collaborate? Reach me here!
 <strong> Email 📫: </strong> claudiabehan@hotmail.com
 <!--
