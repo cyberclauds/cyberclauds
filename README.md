@@ -4,8 +4,8 @@
 
 I'm a cybersecurity student in my penultimate year of uni with a love for exploring and adapting to the evergrowing cyber space! This page will give you a rundown of my <strong> skills </strong> and <strong> attributes </strong>, and most importantly, take you on a journey through the <strong> projects </strong> I've completed! 
 
-📍 Australia ensp 
-🌏 Fluent in English and Cantonese ensp 
+📍 Australia &ensp;
+🌏 Fluent in English and Cantonese &ensp;
 🐶 I have a dog and a cat! 🐱
 
 ## Technical Skills
