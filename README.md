@@ -1,6 +1,8 @@
-## Hey! I am Claudia! :)
+## Hey there, I'm Claudia! :)
 
 <a href="https://au.linkedin.com/in/claudia-behan"><img src="https://img.shields.io/badge/-LinkedIn-0063b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I'm a cybersecurity student in my penultimate year of uni with a love for exploring and adapting to the evergrowing cyber space! This page will give you a rundown of my <strong> skills </strong> and <strong> attributes </strong>, and most importantly, take you on a journey through the <strong> projects </strong> I've completed! 
 <!--
 **cyberclauds/cyberclauds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
