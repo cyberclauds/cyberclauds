@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey! I am Claudia! :)
 
+<a href="https://au.linkedin.com/in/claudia-behan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **cyberclauds/cyberclauds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
