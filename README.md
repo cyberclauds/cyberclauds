@@ -30,13 +30,22 @@ I'm a cybersecurity student in my penultimate year of uni with a love for explor
   <li> Microsoft Office Suite</li>
   <li> Wireshark </li>
   <li> Packet Tracer </li>
-  <li> Oracle </li>
+  <li> VMware </li>
+  <li> Virtual Box </li>
 </ul>
 
 ### Hardware
 <ul>
   <li> CISCO Switches </li>
   <li> Hubs </li>
+</ul>
+
+### Networking
+<ul>
+  <li> TCP/IP </li>
+  <li> VPN </li>
+  <li> Firewall Configuration </li>
+  <li> Routing Protocols </li>
 </ul>
 
 ## Tools I've Used
