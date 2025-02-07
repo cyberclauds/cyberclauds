@@ -16,6 +16,7 @@ I'm a cybersecurity student in my penultimate year of uni with a love for explor
   <li> Java </li>
   <li> HTML/CSS </li>
   <li> SQL </li>
+  <li> Bash </li>
 </ul>
 
 ### Operating Systems
@@ -25,13 +26,15 @@ I'm a cybersecurity student in my penultimate year of uni with a love for explor
   <li> Linux (Kali, Ubuntu) </li>
 </ul>
 
-### Software
+### Software & Tools
 <ul>
   <li> Microsoft Office Suite</li>
   <li> Wireshark </li>
   <li> Packet Tracer </li>
   <li> VMware </li>
   <li> Virtual Box </li>
+  <li> Nmap </li>
+  <li> Splunk </li>
 </ul>
 
 ### Hardware
@@ -48,7 +51,10 @@ I'm a cybersecurity student in my penultimate year of uni with a love for explor
   <li> Routing Protocols </li>
 </ul>
 
-## Tools I've Used
+## Certifications
+| Date   | Name   | Link   |
+|--------| -------| -------|
+|07-02-2025| Mastercard - Cybersecurity Job Simulation| |
 
 ## Projects
 | Date   | Name   | Link   |
