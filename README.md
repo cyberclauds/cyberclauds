@@ -10,7 +10,7 @@ I'm a cybersecurity student in my penultimate year of uni with a love for explor
 
 ## Technical Skills
 
-### Languages
+### Languages & Scripting
 <ul>
   <li> Python </li>
   <li> Java </li>
